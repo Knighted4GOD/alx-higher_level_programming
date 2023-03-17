@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #include <stdio.h>
 /**
  * main - print if the number is postive, zero, or negative
